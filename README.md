@@ -1,5 +1,7 @@
 # 12-Data-Science-Apps
 
+(in progress as of 05/03/2021)
+
 12 Data Science Apps built with Python & Streamlit, freeCodeCamp course.
 
 Watch course here: https://www.youtube.com/watch?v=JwSS70SZdyM
