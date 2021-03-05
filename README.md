@@ -9,3 +9,5 @@ Apps:
 1. Stock price data visualisation, graphs showing closing price and volume of Google stock.
 
 2. Bioinformatics DNA count
+
+3. NBA player stats app, webscraping NBA player data and presenting in tabular format & heatmap.
